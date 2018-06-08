@@ -353,7 +353,6 @@ PRODUCT_COPY_FILES += \
     vendor/intex/ace/proprietary/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
     vendor/intex/ace/proprietary/usr/keylayout/AW9201_ts.kl:system/usr/keylayout/AW9201_ts.kl \
     vendor/intex/ace/proprietary/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
-    vendor/intex/ace/proprietary/usr/keylayout/mtk-tpd.kl:system/usr/keylayout/mtk-tpd.kl \
     vendor/intex/ace/proprietary/lib/libhwm.so:system/lib/libhwm.so \
     vendor/intex/ace/proprietary/lib64/libhwm.so:system/lib64/libhwm.so \
     vendor/intex/ace/proprietary/lib/libfile_op.so:system/lib/libfile_op.so \
@@ -423,7 +422,4 @@ PRODUCT_COPY_FILES += \
     vendor/intex/ace/proprietary/lib/libvp9dec_sa.ca7.so:system/lib/libvp9dec_sa.ca7.so \
     vendor/intex/ace/proprietary/lib/libmtcloader.so:system/lib/libmtcloader.so \
     vendor/intex/ace/proprietary/etc/.tp/thermal.conf:system/etc/.tp/thermal.conf \
-    vendor/intex/ace/proprietary/etc/.tp/thermal.high.conf:system/etc/.tp/thermal.high.conf \
-    vendor/intex/ace/proprietary/etc/.tp/thermal.mid.conf:system/etc/.tp/thermal.mid.conf \
-    vendor/intex/ace/proprietary/etc/.tp/thermal.low.conf:system/etc/.tp/thermal.low.conf \
     vendor/intex/ace/proprietary/etc/.tp/thermal.off.conf:system/etc/.tp/thermal.off.conf
